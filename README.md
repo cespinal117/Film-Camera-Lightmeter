@@ -18,3 +18,12 @@ The PCB is a 2-layer board to minimize cost.
 
 It uses a Raspberry Pi Pico MCU as it was a relatively new board I was trying to learn to use. 
 To power it, you can supply either USB-C for development, or a 3.7V Lipo battery.
+
+It is still a WIP and I hope to have it manufactured soon.
+
+
+![ScreenShot](Screenshots/Schematic.png)
+
+![ScreenShot](Screenshots/layout.png)
+
+![ScreenShot](Screenshots/3dview.png)
