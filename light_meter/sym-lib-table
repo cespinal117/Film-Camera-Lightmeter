@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VEML7700")(type "KiCad")(uri "${KIPRJMOD}/library/VEML7700_TR/KiCADv6/2025-03-30_23-02-24.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8")(type "KiCad")(uri "${KIPRJMOD}/library/ABM8_272_T3/KiCADv6/2025-04-01_04-07-04.kicad_sym")(options "")(descr ""))
+  (lib (name "L102021ML04Q")(type "KiCad")(uri "${KIPRJMOD}/library/L102021ML04Q/L102021ML04Q.kicad_sym")(options "")(descr ""))
+  (lib (name "push_button")(type "KiCad")(uri "${KIPRJMOD}/library/push_button/2025-04-05_20-01-54.kicad_sym")(options "")(descr ""))
+)
